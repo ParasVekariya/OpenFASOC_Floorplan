@@ -31,6 +31,12 @@ Tools used are as follows:
 It is recommended to download and avail all the dependencies required for the project as mentioned above for smooth flow of project.
 
 ### Installation
+
+- As the requirements details are of python 3.7 ( in common to most requirements) it's better to use conda environment for smooth installation.
+```
+conda create --name "fasoc" python=3.6  
+conda activate fasoc  
+```
 - Git clone the OpenFASOC github repo by: 
 ```
 git clone https://github.com/idea-fasoc/openfasoc
@@ -39,12 +45,6 @@ git clone https://github.com/idea-fasoc/openfasoc
 - Go to the OpenFASOC diectory and in that install all requirements mentioned above using the script provided
 ```
 pip install -r requirements.txt  
-```
-
--As the requirements details are of python 3.7 ( in common to most requirements) it's better to use conda environment for smooth installation.
-```
-conda create --name "fasoc" python=3.6  
-conda activate fasoc  
 ```
 
 ## Deriving RTL-to-GDS Flow
