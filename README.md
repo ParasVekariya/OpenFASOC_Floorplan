@@ -148,7 +148,10 @@ Only the final report is shown in the above image
 ## Future Works
 - Rectification and identification of the cause for the crash in the routing step is needed.
 - Generated Warnings and missing connection have to be sorted.
-- 
+
+## References
+- [Official Documentaion](https://chipsalliance.org/wp-content/uploads/sites/83/2021/10/OpenFASOC_-Open-Source-Fully-Autonomous-SoC-Synthesis-using-Customizable-Cell-Based-Synthesizable-Analog-Circuits-CHIPS-Alliance-Mehdi-Saligane.pdf)
+- [Temp Sens Generator](https://openfasoc.readthedocs.io/en/latest/flow-tempsense.html)
 
 ## Contributers
 **Paras Vekariya - iMtech Student, IIIT Bangalore**
@@ -162,3 +165,4 @@ Only the final report is shown in the above image
 - [Paras Vekariya](mailto:Paras.Vekariya@iiitb.ac.in)
 - [Kunal Ghosh](mailto:kunalghosh@gmail.com)
 - [Mahati Basavraju](mailto:Mahati.Basavaraju@iiitb.ac.in)
+
