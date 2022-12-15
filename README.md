@@ -1,4 +1,4 @@
-# OpenFASOC_Floorplan
+# OpenFASOC_Synthesis
 
   * [Tools used and Installation](#tools-used-and-installation)
 - [Installation](#installation)
